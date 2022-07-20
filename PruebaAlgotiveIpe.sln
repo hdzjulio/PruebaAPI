@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaAlgotiveIpe", "PruebaAlgotiveIpe\PruebaAlgotiveIpe.csproj", "{4EBA195E-2CA4-4088-8A53-101E8332FD4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBA195E-2CA4-4088-8A53-101E8332FD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBA195E-2CA4-4088-8A53-101E8332FD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBA195E-2CA4-4088-8A53-101E8332FD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBA195E-2CA4-4088-8A53-101E8332FD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE69865-1793-484F-97D6-086B12E4CCF5}
+	EndGlobalSection
+EndGlobal
